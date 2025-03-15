@@ -30,3 +30,6 @@ This project aims to analyze trends in electric vehicle adoption, identify growt
 ## Contributing
 
 Feel free to fork the repository, make improvements, and submit pull requests.
+
+
+You can check out the dashboard here -> https://public.tableau.com/app/profile/virag.savaliya/viz/EVAnalysis_17365443312460/Dashboard1
